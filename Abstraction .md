@@ -68,6 +68,7 @@ print("Area of a triangle:", t.area())
 ```
 ## Output
 <img width="796" height="280" alt="image" src="https://github.com/user-attachments/assets/896771d4-5625-4573-87c2-bdb30a885326" />
+
 ## Result
 The program successfully demonstrates the concept of abstract classes and method overriding in Python.
 The abstract class Shape defines the structure, and the subclasses Rectangle and Circle implement their own versions of the calculate_area() method.
