@@ -38,5 +38,6 @@ class Rectangle:
 
 ## Output
 <img width="290" height="132" alt="image" src="https://github.com/user-attachments/assets/3df50c49-54d3-4b3e-be8f-056ea7e6cc3b" />
+
 ## Result
 Thus, the program to implement Encapsulation with Private Members in Python was executed successfully and produced the expected result.
